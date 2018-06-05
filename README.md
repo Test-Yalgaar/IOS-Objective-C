@@ -3,7 +3,7 @@ Create amazing realtime applications easily with Yalgaar IOS Objective C SDK
 
 ## Description
 * IOS Objective C sdk support version 7.1 or above
-* This Library contains [ Mosquitto 1.2.3](http://mosquitto.org/), MQTTKit Client Libraries
+* This Library contains [ Mosquitto 1.2.3](http://mosquitto.org/), MQTTKit Libraries
 
 ## Usage
 For use Yalgaar IOS Objective C SDK refer [Document](https://www.yalgaar.io/documentation/ios-api)
